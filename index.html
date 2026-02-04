@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Toraya Rental Mobil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0; padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(90deg, #c56b00, #c86417);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+            letter-spacing: 3px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #c86417;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        ul li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+        }
+        .promo-section {
+            margin-bottom: 30px;
+        }
+        .contact {
+            font-weight: bold;
+            margin-top: 15px;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #c86417;
+            font-weight: normal;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #ddd;
+            margin-top: 40px;
+        }
+        .car-image {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .car-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>TORAYA RENTAL</h1>
+        <p>AVANZA CVT - Jln. Frans Karangan no.96</p>
+    </header>
+    <div class="container">
+        <div class="promo-section">
+            <h2>PROMO RENTAL MOBIL – UMUM</h2>
+            <p>Butuh Mobil Nyaman & Terpercaya? Kami siap menemani perjalanan Anda!</p>
+            <ul>
+                <li>✅ Mobil bersih & terawat</li>
+                <li>✅ Banyak pilihan unit</li>
+                <li>✅ Harga ramah di kantong</li>
+                <li>✅ Bisa lepas kunci / dengan sopir</li>
+            </ul>
+            <p><strong>Cocok untuk:</strong> Liburan • Acara keluarga • Dinas • Pernikahan</p>
+            <p class="contact">Hubungi sekarang: <a href="tel:0895806692858">0895806692858</a></p>
+        </div>
+
+        <div class="promo-section">
+            <h2>PROMO RENTAL MOBIL – SINGKAT (WA / STATUS)</h2>
+            <p>RENTAL MOBIL MURAH & AMAN</p>
+            <ul>
+                <li>Siap pakai</li>
+                <li>Terawat</li>
+                <li>Nyaman</li>
+                <li>Lepas kunci / Driver</li>
+            </ul>
+            <p class="contact">Booking: <a href="tel:0895806692858">0895806692858</a></p>
+            <p>Stok terbatas, buruan!</p>
+        </div>
+
+        <div class="promo-section">
+            <h2>PROMO RENTAL MOBIL – LEBIH MENJUAL</h2>
+            <p>🔥 PROMO RENTAL MOBIL TERBAIK! 🔥</p>
+            <ul>
+                <li>Mobil khusus Sulawesi</li>
+                <li>Mobil khusus lepas kunci</li>
+                <li>Mobil khusus event / wedding</li>
+            </ul>
+        </div>
+
+        <div class="car-image">
+            <img src="https://i.imgur.com/XX4G8D0.jpg" alt="Mobil Avanza CVT Toraya Rental" />
+            <p><strong>Kontak Alam:</strong> 082221444131 | 0895806692858</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Toraya Rental Mobil. All rights reserved.
+    </footer>
+</body>
+</html>
